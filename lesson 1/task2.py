@@ -1,4 +1,4 @@
-time_sec = int(input('Введите время в секундах: '))
+time_sec = int(input('Введите, пожалуйста, время в секундах: '))
 minutes = time_sec // 60
 sec = time_sec % 60
 if minutes < 60:

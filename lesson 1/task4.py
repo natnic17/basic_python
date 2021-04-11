@@ -5,4 +5,4 @@ while n != 0:
     if last > maxi:
         maxi = last
     n = n // 10
-print('Максимальная цифра в числе равна', maxi)
+print('Максимальная цифра в Вашем числе равна', maxi)
